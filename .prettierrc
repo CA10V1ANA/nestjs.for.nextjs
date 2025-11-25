@@ -1,5 +1,4 @@
 {
-
   "arrowParens": "avoid",
   "bracketSpacing": true,
   "htmlWhitespaceSensitivity": "css",
@@ -15,5 +14,4 @@
   "tabWidth": 2,
   "trailingComma": "all",
   "useTabs": false
-
 }
